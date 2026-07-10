@@ -1,71 +1,118 @@
 # Amani Ibrahim — Personal Portfolio
 
-A premium, single-file personal portfolio website built with plain HTML, CSS, and JavaScript — no frameworks, no build step. Designed with a warm white/beige, Apple/Framer-inspired aesthetic, glassmorphism cards, and smooth scroll animations.
+A responsive personal portfolio website built using plain HTML, CSS, and JavaScript without frameworks or build tools. The website features a clean warm white/beige design, modern UI elements, glassmorphism cards, and smooth interactive animations.
 
-**Live site:** https://amani13779.github.io/amani-portfolio/
+**Live Site:**
+https://amani13779.github.io/amani-portfolio/
 
 ## Overview
 
-This portfolio showcases my background as a Computer Science student at Qassim University, my featured project (Wasl Platform), other projects, technical skills, and my learning journey so far.
+This portfolio showcases my background as a Computer Science student at Qassim University, my technical skills, featured projects, and learning journey in software development and artificial intelligence.
+
+The website was designed to provide a simple, professional, and accessible experience while presenting my education, projects, and areas of interest.
 
 ## Features
 
-- Single `index.html` file — embedded CSS and JavaScript, no external frameworks (only Google Fonts and Font Awesome)
-- Light / dark mode toggle with saved preference
-- Sticky navigation bar with active-section highlighting
-- Scroll reveal animations and animated skill progress bars
-- Glassmorphism cards with soft shadows
-- Loading screen, scroll-to-top button, and animated gradient background
-- Fully responsive — desktop, tablet, and mobile
-- Semantic HTML5 and accessibility best practices (skip link, `aria` labels, focus states, reduced-motion support)
+* Single `index.html` file with embedded CSS and JavaScript
+* No external frameworks or build tools
+* Light and dark mode toggle
+* Sticky navigation bar with active section highlighting
+* Smooth scrolling and scroll reveal animations
+* Animated skill progress bars
+* Glassmorphism cards with soft shadows
+* Loading screen and scroll-to-top button
+* Animated background elements
+* Fully responsive design for desktop, tablet, and mobile
+* Semantic HTML5 structure
+* Accessibility improvements including ARIA labels, focus states, skip link, and reduced-motion support
 
-## Sections
+## Website Sections
 
-1. **Hero** — introduction and tagline
-2. **About Me** — brief bio and areas of focus
-3. **Education** — Bachelor of Computer Science, Qassim University
-4. **Featured Project** — Wasl Platform (AI-powered accessibility platform, coming soon)
-5. **Other Projects** — Food Ordering System, Portfolio Website
-6. **Skills** — programming languages, web technologies, databases, tools, and AI
-7. **Learning Journey** — a timeline of milestones so far
-8. **Contact** — email and GitHub
+1. **Hero Section**
+   Introduction, name, title, and personal tagline.
+
+2. **About Me**
+   Background as a Computer Science student and interests in software engineering, artificial intelligence, machine learning, databases, and web development.
+
+3. **Education**
+   Bachelor of Computer Science at Qassim University displayed using a timeline design.
+
+4. **Featured Project**
+   **Wasl Platform**
+   An AI-powered accessibility platform designed to support university students through inclusive technologies such as speech recognition, AI features, and accessibility tools.
+
+   **Status:** Coming Soon
+
+5. **Other Projects**
+
+   **Food Ordering System**
+   A Java and SQL-based food ordering system.
+
+   GitHub Repository:
+   https://github.com/amani13779/onlineFood.git
+
+   **Portfolio Website**
+   A responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my education, skills, and software projects.
+
+6. **Skills**
+
+   * Java
+   * Python
+   * JavaScript
+   * HTML
+   * CSS
+   * SQL
+   * Git
+   * GitHub
+   * Machine Learning Fundamentals
+   * Artificial Intelligence Fundamentals
+
+7. **Learning Journey**
+   A timeline highlighting my progress in Computer Science, software projects, and continuous learning.
+
+8. **Contact**
+   Email and GitHub profile information.
 
 ## Tech Stack
 
-- HTML5
-- CSS3 (custom properties, Grid, Flexbox, animations)
-- Vanilla JavaScript (Intersection Observer API, localStorage)
-- [Google Fonts](https://fonts.google.com/) — Fraunces, Inter, Space Mono
-- [Font Awesome](https://fontawesome.com/) — icons
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+* Google Fonts
+* Font Awesome
 
 ## Running Locally
 
-No build tools or dependencies required.
+No installation or dependencies are required.
 
 ```bash
 git clone https://github.com/amani13779/amani-portfolio.git
 cd amani-portfolio
 ```
 
-Then simply open `index.html` in your browser.
+Open `index.html` directly in your browser.
 
 ## Deployment (GitHub Pages)
 
-1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Branch**, select `main` and `/root`, then save.
-4. The site will be published at `https://amani13779.github.io/amani-portfolio/`.
+The website is deployed using GitHub Pages.
 
-## To-Do
+Steps:
 
-- [ ] Add a real CV file (`cv.pdf`) and link it from the Download CV button
-- [ ] Add a live link once the Wasl Platform project is complete
+1. Upload the project repository to GitHub.
+2. Open repository **Settings → Pages**.
+3. Select the `main` branch and root folder.
+4. Save the settings.
+
+The website will be available through GitHub Pages.
 
 ## Contact
 
-- **Email:** amani137888@gmail.com
-- **GitHub:** [github.com/amani13779](https://github.com/amani13779)
+**Email:**
+[amani137888@gmail.com](mailto:amani137888@gmail.com)
 
-## License
+**GitHub Profile:**
+https://github.com/amani13779
+
+---
 
 © 2026 Amani Ibrahim. All Rights Reserved.
